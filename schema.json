@@ -1,0 +1,14 @@
+{
+    "type": "object",
+    "properties": {
+        "nuTemperatura": {
+            "type": "integer"
+        },
+        "nuLM335": {
+            "type": "integer"
+        },
+        "nuLM35": {
+            "type": "integer"
+        }
+    }
+}
