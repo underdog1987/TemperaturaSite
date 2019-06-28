@@ -1,0 +1,5 @@
+Nombre de columna;tipo
+Titulo;Una linea de texto
+nuTemperatura;Número
+nuLM335;Número
+nuLM335;Número
